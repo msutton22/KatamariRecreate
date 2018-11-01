@@ -4,29 +4,25 @@ using UnityEngine;
 
 public class ballBehavior : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
+	public float speed;
+	public float turn;
+
+	private Rigidbody rb;
+
+	void Start ()
+	{
+		rb = GetComponent<Rigidbody>();
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		if (Input.GetKey(KeyCode.W))
-		{
-			transform.Translate(0f,0f,0.2f);
-		}
-		
-		if (Input.GetKey(KeyCode.A))
-		{
-			transform.Translate(-0.2f,0f,0f);
-		}
-		if (Input.GetKey(KeyCode.S))
-		{
-			transform.Translate(0f,0f,-0.2f);
-		}
-		if (Input.GetKey(KeyCode.D))
-		{
-			transform.Translate(0.2f,0f,0f);
-		}
+
+	void FixedUpdate ()
+	{
+		float moveHorizontal = Input.GetAxis ("Horizontal");
+		float moveVertical = Input.GetAxis ("Vertical");
+
+		Vector3 movement = new Vector3 (moveHorizontal, 0.0f, moveVertical);
+
+		rb.AddForce (movement * speed);
+		rb.AddTorque(transform.up * turn * moveHorizontal);
 	}
+
 }
