@@ -6,6 +6,7 @@
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
           <e p="ballBehavior.cs" t="Include" />
+          <e p="collactable.cs" t="Include" />
         </e>
       </e>
       <e p="KatamariRecreate.sln" t="IncludeFlat" />
