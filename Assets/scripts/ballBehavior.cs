@@ -49,6 +49,10 @@ public class ballBehavior : MonoBehaviour {
 	{
 		if (col.gameObject.tag == "collectable")
 		{
+			rb.mass += col.rigidbody.mass;
+		     Destroy(col.rigidbody);
+             col.transform.parent = transform;
+             col.gameObject.GetComponent<SphereCollider>().enabled = true;
 			//		Debug.Log("collide!");
 			//GameObject.FindWithTag("collectable").transform.position = newPos;
 			//		collect = true;
