@@ -9,8 +9,7 @@ public class collactable : MonoBehaviour {
 	private Boolean collides;
 	// Use this for initialization
 	void Start () {
-		m_Collider = GetComponent<Collider>();
-		collides = false;
+		
 	}
 	
 	// Update is called once per frame
@@ -18,12 +17,5 @@ public class collactable : MonoBehaviour {
 		
 	}
 
-	void OnCollisionEnter(Collision col)
-	{
-		if (col.gameObject.tag == "player")
-		{
-		}
-
-
-	}
+	
 }
