@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="48a7982f-44a5-4e99-b61d-bfc247e68581" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="99d61c98-cc23-44ca-b246-c40a10ff0c87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/ballBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/ballBehavior.cs" afterDir="false" />
+    </list>
+>>>>>>> upstream/master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="1889338807">
       <usages-collector id="statistics.lifecycle.project">
@@ -36,12 +43,59 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="1154" />
+=======
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="390390005">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1459" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1459" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
+>>>>>>> upstream/master
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/UI.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,11 +106,27 @@
                 <marker date="1541483165569" expanded="true" signature="134:758" ph="{...}" />
                 <marker date="1541483165569" expanded="true" signature="373:437" ph="{...}" />
                 <marker date="1541483165569" expanded="true" signature="491:756" ph="{...}" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/ballBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="607">
+              <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+              <folding>
+                <marker date="1541470093819" expanded="false" signature="6:92" ph="..." />
+                <marker date="1541470093819" expanded="true" signature="136:1224" ph="{...}" />
+                <marker date="1541470093819" expanded="true" signature="333:488" ph="{...}" />
+                <marker date="1541470093819" expanded="true" signature="513:789" ph="{...}" />
+                <marker date="1541470093819" expanded="true" signature="828:1216" ph="{...}" />
+                <marker date="1541470093819" expanded="true" signature="874:1050" ph="{...}" />
+                <marker date="1541470093819" expanded="true" signature="1094:1213" ph="{...}" />
+>>>>>>> upstream/master
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/LastObjectDisplay.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,6 +142,18 @@
                 <marker date="1541481853286" expanded="true" signature="928:1028" ph="{...}" />
                 <marker date="1541481853286" expanded="true" signature="1063:1157" ph="{...}" />
                 <marker date="1541481853286" expanded="true" signature="1185:1333" ph="{...}" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/collactable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding>
+                <marker date="1541120655676" expanded="false" signature="6:92" ph="..." />
+                <marker date="1541120655676" expanded="true" signature="135:308" ph="{...}" />
+                <marker date="1541120655676" expanded="true" signature="234:241" ph="{...}" />
+                <marker date="1541120655676" expanded="true" signature="296:303" ph="{...}" />
+>>>>>>> upstream/master
               </folding>
             </state>
           </provider>
@@ -83,14 +165,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/Assets/LastObjectDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UI.cs" root0="FORCE_HIGHLIGHTING" />
+=======
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/ballBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/collactable.cs" root0="FORCE_HIGHLIGHTING" />
+>>>>>>> upstream/master
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Assets/LastObjectDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/UI.cs" />
+=======
+        <option value="$PROJECT_DIR$/Assets/scripts/collactable.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ballBehavior.cs" />
+>>>>>>> upstream/master
       </list>
     </option>
   </component>
@@ -101,19 +193,29 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="-7" />
     <option name="y" value="2" />
     <option name="width" value="1932" />
     <option name="height" value="1045" />
+=======
+    <option name="x" value="37" />
+    <option name="y" value="280" />
+    <option name="width" value="1440" />
+    <option name="height" value="756" />
+>>>>>>> upstream/master
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+=======
+>>>>>>> upstream/master
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -126,6 +228,12 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+>>>>>>> upstream/master
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -133,7 +241,10 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Treasure Hunt/Assembly-CSharp.csproj" />
+=======
+>>>>>>> upstream/master
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,6 +279,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="48a7982f-44a5-4e99-b61d-bfc247e68581" name="Default Changelist" comment="" />
       <created>1541087004919</created>
       <option name="number" value="Default" />
@@ -175,11 +287,29 @@
       <updated>1541087004919</updated>
       <workItem from="1541087007186" duration="85000" />
       <workItem from="1541087144730" duration="7226000" />
+=======
+      <changelist id="99d61c98-cc23-44ca-b246-c40a10ff0c87" name="Default Changelist" comment="" />
+      <created>1541084872410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541084872410</updated>
+      <workItem from="1541084875816" duration="3914000" />
+      <workItem from="1541092470328" duration="1020000" />
+      <workItem from="1541093496322" duration="4365000" />
+      <workItem from="1541098882793" duration="224000" />
+      <workItem from="1541099311688" duration="176000" />
+      <workItem from="1541120551894" duration="556000" />
+      <workItem from="1541469560112" duration="1036000" />
+>>>>>>> upstream/master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="7311000" />
+=======
+    <option name="totallyTimeSpent" value="11291000" />
+>>>>>>> upstream/master
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -191,6 +321,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
     <editor active="true" />
     <layout>
@@ -198,6 +329,14 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Unity" />
+=======
+    <frame x="37" y="280" width="1440" height="756" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+>>>>>>> upstream/master
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -208,16 +347,28 @@
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+=======
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" visible="true" weight="0.3298193" />
+>>>>>>> upstream/master
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+=======
+      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+>>>>>>> upstream/master
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +390,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Assets/UI.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -248,10 +400,22 @@
             <marker date="1541483165569" expanded="true" signature="134:758" ph="{...}" />
             <marker date="1541483165569" expanded="true" signature="373:437" ph="{...}" />
             <marker date="1541483165569" expanded="true" signature="491:756" ph="{...}" />
+=======
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/collactable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <marker date="1541120655676" expanded="false" signature="6:92" ph="..." />
+            <marker date="1541120655676" expanded="true" signature="135:308" ph="{...}" />
+            <marker date="1541120655676" expanded="true" signature="234:241" ph="{...}" />
+            <marker date="1541120655676" expanded="true" signature="296:303" ph="{...}" />
+>>>>>>> upstream/master
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Assets/LastObjectDisplay.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -266,6 +430,20 @@
             <marker date="1541481853286" expanded="true" signature="928:1028" ph="{...}" />
             <marker date="1541481853286" expanded="true" signature="1063:1157" ph="{...}" />
             <marker date="1541481853286" expanded="true" signature="1185:1333" ph="{...}" />
+=======
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/ballBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+          <folding>
+            <marker date="1541470093819" expanded="false" signature="6:92" ph="..." />
+            <marker date="1541470093819" expanded="true" signature="136:1224" ph="{...}" />
+            <marker date="1541470093819" expanded="true" signature="333:488" ph="{...}" />
+            <marker date="1541470093819" expanded="true" signature="513:789" ph="{...}" />
+            <marker date="1541470093819" expanded="true" signature="828:1216" ph="{...}" />
+            <marker date="1541470093819" expanded="true" signature="874:1050" ph="{...}" />
+            <marker date="1541470093819" expanded="true" signature="1094:1213" ph="{...}" />
+>>>>>>> upstream/master
           </folding>
         </state>
       </provider>
